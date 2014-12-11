@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "eliminarDuplicadosListaNoOrdenada:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*pSig">
+            </PersistentString>
+            <PersistentString
+               value = "(*pSig)-&gt;info.num">
+            </PersistentString>
+            <PersistentString
+               value = "(*q)-&gt;info.num">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "insertarEnOrden:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "pd-&gt;num">
+            </PersistentString>
+            <PersistentString
+               value = "(*pl)-&gt;info.num">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "comparar:main.c">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
